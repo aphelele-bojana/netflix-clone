@@ -1,2 +1,3 @@
-# netflix-clone https.//streaming-app-netfliixx-aphelele.netlify.app
+# netflix-clone 
+https.//streaming-app-netfliixx-aphelele.netlify.app
 This is my netflix clone landing page Clone with HTML and CSS
